@@ -1,0 +1,66 @@
+[
+    {
+      "task_id": 1,
+      "task_name": "Install Software Updates",
+      "profession": "",
+      "assigned": "John Doe",
+      "details": "",
+      "deadline": "2024-01-31"
+    },
+    {
+      "task_id": 2,
+      "task_name": "Troubleshoot Network Issues",
+      "profession": "",
+      "assigned": "Jane Smith",
+      "details": "",
+      "deadline": "2024-02-15"
+    },
+    {
+      "task_id": 3,
+      "task_name": "Set up New User Accounts",
+      "profession": "",
+      "assigned": "Mark Johnson",
+      "details": "",
+      "deadline": "2024-01-20"
+    },
+    {
+      "task_id": 4,
+      "task_name": "Upgrade Server Hardware",
+      "profession": "",
+      "assigned": "Chris Anderson",
+      "details": "",
+      "deadline": "2024-03-10"
+    },
+    {
+      "task_id": 5,
+      "task_name": "Implement Data Backup System",
+      "profession": "",
+      "assigned": "Emily Davis",
+      "details": "",
+      "deadline": "2024-02-28"
+    },
+    {
+      "task_id": 6,
+      "task_name": "Security Patching",
+      "profession": "",
+      "assigned": "Alex Wilson",
+      "details": "",
+      "deadline": "2024-01-15"
+    },
+    {
+      "task_id": 7,
+      "task_name": "Evaluate Cloud Storage Solutions",
+      "profession": "",
+      "assigned": "Sophie Miller",
+      "details": "",
+      "deadline": "2024-02-20"
+    },
+    {
+      "task_id": 8,
+      "task_name": "Develop IT Training Program",
+      "profession": "",
+      "assigned": "Michael Brown",
+      "details": "",
+      "deadline": "2024-03-01"
+    }
+  ]
